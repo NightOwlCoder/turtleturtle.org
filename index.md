@@ -22,7 +22,7 @@ title: TurtleTurtle.org
 [cuveetrtl.czech.cloud](http://cuveetrtl.czech.cloud) → CuvéeTrtl Public Public Daemon Service  
 [turtle-node.tk](http://turtle-node.tk) → European public daemon service (fee 50 TRTL/Tr.)  
 [trtlnode.space](http://trtlnode.space) → Russian TurtleCoin pubilc daemon (fee 5.00 TRTL)  
-
+[HA Turtle Node](http://turtle.hapool.pw) → High Available US turtle node (point your wallet to turtle.hapool.pw:11898) 
 
 ### Block Explorers
 [explorer.turtlecoin.lol](https://explorer.turtlecoin.lol) → Official TurtleCoin Blockchain Explorer  
